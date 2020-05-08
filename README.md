@@ -1,4 +1,4 @@
-knn_openmp_mnist
+**knn_openmp_mnist
 
 This is a very fast implementation of the k Nearest Neighbors (kNN) classification algorithm using C with OpenMP targeting the MNIST dataset (See http://yann.lecun.com/exdb/mnist/). The MNIST dataset includes four files that are expected to be available:
 
